@@ -1,5 +1,5 @@
 # kafka-schema-registry-demo
-A simple demo to use Jenkins to publish Kafka schema registry and show in a UI
+A simple demo to use Jenkins to register Kafka schema registry (Confluent) and show in a UI
 
 ## Technologies
 * Groovy Script
